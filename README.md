@@ -1,1 +1,2 @@
 # cmsc508-fa2023-hw7-template
+This project consists of a database for a company of ragtag wokers in a kill bill like environment. The database includes the people, their skills, and their roles. The ddl file sets up all of the people's attributes + their skills and roles. The company have a wide variety of skills. The html will include a diagram of the comapny's database, a listing of their entties tables, and a variety of sample queries.
